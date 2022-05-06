@@ -1,0 +1,5 @@
+.idea
+venv
+powershell.txt
+stream.json*
+*.bak
